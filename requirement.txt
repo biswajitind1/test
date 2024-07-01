@@ -1,0 +1,6 @@
+# requirements.txt
+django==1.11.29  # CVE-2021-33203, CVE-2021-31542
+flask==0.12.3    # CVE-2018-1000656
+pyyaml==5.3.1    # CVE-2020-14343
+requests==2.19.1 # CVE-2018-18074
+pillow==6.2.2    # CVE-2020-10379, CVE-2020-10378, CVE-2020-10994
