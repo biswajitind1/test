@@ -1,4 +1,5 @@
 # requirements.txt
+# Sample requirement.txt to generate dependanot alert
 django==1.11.29  # CVE-2021-33203, CVE-2021-31542
 flask==0.12.3    # CVE-2018-1000656
 pyyaml==5.3.1    # CVE-2020-14343
